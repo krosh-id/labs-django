@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'storages',
     'blog.apps.BlogConfig',
     'users',
-    'bootstrap4',
     'debug_toolbar',
 ]
 
